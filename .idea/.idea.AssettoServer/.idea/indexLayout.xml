@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="UserContentModel">
+    <attachedFolders />
+    <explicitIncludes>
+      <Path>SafetyRatingPlugin/.git</Path>
+      <Path>SafetyRatingPlugin/EntryCarSafetyRating.cs</Path>
+      <Path>SafetyRatingPlugin/LICENSE</Path>
+      <Path>SafetyRatingPlugin/README.md</Path>
+      <Path>SafetyRatingPlugin/SafetyRating.cs</Path>
+      <Path>SafetyRatingPlugin/SafetyRatingCommandModule.cs</Path>
+      <Path>SafetyRatingPlugin/SafetyRatingConfiguration.cs</Path>
+      <Path>SafetyRatingPlugin/SafetyRatingConfigurationValidator.cs</Path>
+      <Path>SafetyRatingPlugin/SafetyRatingController.cs</Path>
+      <Path>SafetyRatingPlugin/SafetyRatingModule.cs</Path>
+      <Path>SafetyRatingPlugin/SafetyRatingPlugin.cs</Path>
+      <Path>SafetyRatingPlugin/SafetyRatingPlugin.csproj</Path>
+    </explicitIncludes>
+    <explicitExcludes />
+  </component>
+</project>

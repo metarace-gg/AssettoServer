@@ -1,0 +1,3 @@
+[submodule "SafetyRatingPlugin"]
+	path = SafetyRatingPlugin
+	url = git@github.com:metarace-gg/SafetyRatingPlugin.git
